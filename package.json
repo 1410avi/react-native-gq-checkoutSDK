@@ -1,0 +1,19 @@
+{
+  "name": "react-native-gq-checkoutsdk",
+  "version": "1.0.0",
+  "description": "GQ Checkout SDK",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Avinash Soni <avinash.soni@grayquest.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "react-native-webview": "^13.7.1"
+  }
+}
